@@ -1,0 +1,23 @@
+.jumbotron {
+    margin-bottom: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+    background-image: url(http://shifter.pt/wp-content/uploads/2015/02/volvocarrosautonomos_01.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+div.cont{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left:0px;
+	background-color: #eee;
+	background-image: url('../img/pessoas.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

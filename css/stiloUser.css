@@ -1,0 +1,41 @@
+	#welcome{
+		margin-left: 13px;
+	}
+	.well{
+		background-color:#ECF0F1;
+	}
+	.navbar{
+		margin-bottom: 0px;
+	}
+	.green{
+		color: #048e04;
+	}
+	.red{
+		color: red;
+	}
+	a.fa-car{
+		color: #969696;
+	}
+	a.fa-car:hover{
+		color: #2561e8;
+	}
+	.dataz {
+	margin-top: 15px;
+	margin-bottom: 30px; 
+    display: block;
+    width: 25%;
+    height: 40px;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #2c3e50;
+    background-color: #ffffff;
+    background-image: none;
+    border: 2px solid #dce4ec;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
