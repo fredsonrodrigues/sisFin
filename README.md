@@ -1,7 +1,7 @@
 # sisFin
 
 Sistema básico de cadastro de pessoas.
-
+Utilizo-o na maioria dos testes que realizo com bibliotecas php ou javascript
 
 O banco é configurado no arquivo core/def.php :
 
